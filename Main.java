@@ -5,6 +5,7 @@ public class Main {
 		
 		for(int i =1; i<=10; i++){
 			System.out.println("Hello world this project to test jenkins with Sonar ... " + i);
+			System.out.println("Testing");
 		}
 
 	}
